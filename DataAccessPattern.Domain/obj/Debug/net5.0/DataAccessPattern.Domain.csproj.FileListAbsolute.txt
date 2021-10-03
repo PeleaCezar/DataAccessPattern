@@ -1,0 +1,12 @@
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\bin\Debug\net5.0\DataAccessPattern.Domain.deps.json
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\bin\Debug\net5.0\DataAccessPattern.Domain.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\bin\Debug\net5.0\ref\DataAccessPattern.Domain.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\bin\Debug\net5.0\DataAccessPattern.Domain.pdb
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.AssemblyInfo.cs
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\ref\DataAccessPattern.Domain.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Domain\obj\Debug\net5.0\DataAccessPattern.Domain.pdb

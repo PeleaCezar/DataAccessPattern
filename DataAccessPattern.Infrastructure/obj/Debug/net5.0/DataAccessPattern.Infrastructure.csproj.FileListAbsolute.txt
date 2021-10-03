@@ -1,0 +1,15 @@
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\bin\Debug\net5.0\DataAccessPattern.Infrastructure.deps.json
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\bin\Debug\net5.0\DataAccessPattern.Infrastructure.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\bin\Debug\net5.0\ref\DataAccessPattern.Infrastructure.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\bin\Debug\net5.0\DataAccessPattern.Infrastructure.pdb
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\bin\Debug\net5.0\DataAccessPattern.Domain.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\bin\Debug\net5.0\DataAccessPattern.Domain.pdb
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.AssemblyInfo.cs
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.csproj.CopyComplete
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\ref\DataAccessPattern.Infrastructure.dll
+C:\Users\Cezar Pelea\source\repos\DataAccessPatern\DataAccessPattern.Infrastructure\obj\Debug\net5.0\DataAccessPattern.Infrastructure.pdb
